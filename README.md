@@ -1,5 +1,5 @@
 # LORI-MAGSHIELD
-
+For formal authorship declaration, see ORIGIN_STATEMENT.md
 ## Overview
 LORI-MAGSHIELD is a localized magnetic shielding system designed to protect human habitats, critical infrastructure, and equipment from solar radiation and charged particle exposure in space environments such as the Moon and Mars.
 
